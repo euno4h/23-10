@@ -45,4 +45,8 @@ button{
     border-radius: 10%;
     width: 100%;
     border-radius: 10%;
+    padding: 0%;
+    font-size: medium;
+    color: brown;
+    cursor: grab;
 }
